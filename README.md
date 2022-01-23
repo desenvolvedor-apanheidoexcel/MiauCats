@@ -1,4 +1,4 @@
-# MiauCats
+# MiauCats - Android APP
 > Get cats imagens from Imgur
 
 
