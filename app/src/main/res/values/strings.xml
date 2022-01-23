@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiauCats</string>
+    <string name="alert_titulo_descricao">Descrição</string>
+    <string name="alert_mensagem_no_descricao">Nenhuma descrição disponível...</string>
+</resources>
